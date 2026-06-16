@@ -6,7 +6,9 @@ Exploratory data analysis and sentiment analysis of Yelp reviews for California 
 
 ## Introduction
 
-Patient satisfaction is a critical but often underutilized signal in evaluating health plan performance. While traditional surveys (e.g., CAHPS) are the standard, public review platforms like Yelp offer a large, unsolicited source of patient feedback that can complement existing measures.
+Patient satisfaction is a critical but often underutilized signal in evaluating health plan performance. While traditional surveys are the standard, public review platforms like Yelp offer a large, unsolicited source of patient feedback that can complement existing measures. This was created when my office, at that time, was facing budget cuts in outsourcing traditional external survey and research organizations. Thus, I was tasked with utilizing non-traditional platforms, such as Yelp, to open up possible sources for feedback and rating frameworks.
+
+This project is meant to open up new ideas and possibilities. I acknowledge that data from social media can be quite messy!
 
 This project explores whether Yelp reviews can be used to derive a meaningful patient satisfaction metric for California health plans and medical groups. By scraping reviews via the SerpAPI Yelp engine and applying NLP-based sentiment analysis, we aim to surface patterns in patient experience that may not appear in structured survey data.
 
