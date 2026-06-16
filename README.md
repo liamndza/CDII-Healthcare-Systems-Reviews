@@ -1,4 +1,4 @@
-# Yelp Health Plan Sentiment Analysis
+# Health Plan Sentiment Analysis through Yelp 
 
 Exploratory data analysis and sentiment analysis of Yelp reviews for California health plans and medical groups, with the goal of building a patient satisfaction metric.
 
