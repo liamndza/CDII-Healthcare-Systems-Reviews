@@ -38,14 +38,6 @@ This project explores whether Yelp reviews can be used to derive a meaningful pa
 
 ---
 
-## Usage
-
-Open and run the Jupyter notebook:
-
-```bash
-jupyter notebook yelp_eda.ipynb
-```
-
 The notebook is organized into four parts:
 
 | Part | Description |
